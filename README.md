@@ -5,7 +5,7 @@ Exploratory Data Analysis (EDA) of the ['skoda.csv'](https://www.kaggle.com/aish
 <h4> Main Objective: </h4>
 
 *  Visualize the relation between various features of the dataset.
-*  Explaining the plots used in this eda.
+*  Explore & explain the plots used in this eda.
 
 <h4> Plots used: </h4> 
 
