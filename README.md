@@ -2,6 +2,7 @@
 
 Exploratory Data Analysis (EDA) of the ['skoda.csv'](https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw/ "skoda.csv title") dataset using pandas, numpy, matplotlib & seaborn.
 
+<br>
 <h3> Features of this dataset: </h3>
 
 *  <b>model:</b> List of the Skoda Car models
@@ -13,6 +14,7 @@ Exploratory Data Analysis (EDA) of the ['skoda.csv'](https://www.kaggle.com/aish
 *  <b>mpg:</b> MPG (miles per gallon), is the distance, measured in miles, that a car can travel per gallon of fuel. MPG is also the primary measurement of a car's fuel efficiency: The higher a car's MPG, the more fuel efficient it is.
 *  <b>engineSize:</b> EngineSize of the cars refers to the volume of fuel and air that can be pushed through a car’s cylinders and is measured in cubic centimetres (cc).
 
+<br>
 <h3> Main Objective(s): </h3>
 
 *  Visualize the relation between various features of the dataset.
@@ -22,6 +24,7 @@ Exploratory Data Analysis (EDA) of the ['skoda.csv'](https://www.kaggle.com/aish
 *  Data preprocessing and cleansing (where needed)
 *  Data Aggregation/grouping
 
+<br>
 <h3> Plot(s) Used: </h3> 
 
 * Barplot
@@ -31,3 +34,6 @@ Exploratory Data Analysis (EDA) of the ['skoda.csv'](https://www.kaggle.com/aish
 * Distribution
 * ECDF (Empirical Cumulative Distribution Function)
 * Boxplot 
+
+<br> <br>
+
