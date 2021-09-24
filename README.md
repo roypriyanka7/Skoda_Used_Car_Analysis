@@ -1,6 +1,6 @@
 # Skoda Used Car Analysis
 
-Exploratory Data Analysis (EDA) of the ['skoda.csv'](https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw/ "skoda.csv title") dataset using pandas, numpy, matplotlib & seaborn.
+Exploratory Data Analysis (EDA) and applying Machine Learning Algorithms on the ['skoda.csv'](https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw/ "skoda.csv title") dataset using pandas, numpy, matplotlib, seaborn & scikit-learn.
 
 <br>
 <h3> Features of this dataset: </h3>
@@ -23,6 +23,9 @@ Exploratory Data Analysis (EDA) of the ['skoda.csv'](https://www.kaggle.com/aish
 *  Data filtering
 *  Data preprocessing and cleansing (where needed)
 *  Data Aggregation/grouping
+*  train data, test data
+*  Performing Machine Learning Algorithm- Linear Regression
+*  Evaluating RMSE - Root Mean Squared Error
 
 <br>
 <h3> Plot(s) Used: </h3> 
