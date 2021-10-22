@@ -24,8 +24,10 @@ Exploratory Data Analysis (EDA) and applying Machine Learning Algorithms on the 
 *  Data preprocessing and cleansing (where needed)
 *  Data Aggregation/grouping
 *  train data, test data
-*  Performing Machine Learning Algorithm- Linear Regression
-*  Evaluating RMSE - Root Mean Squared Error
+*  Performing Label Encoding or One-hot Encoding (Explaining which one is best suitable for the analysis)
+*  Performing Machine Learning Algorithm- Linear Regression & Predicting the 'Price' from the test set
+*  Evaluating RMSE - Root Mean Squared Error, MAE, MAPE, MSE, coefficient of determination values from the actual target variable and the predicted target variable.
+* Comparing the actual and predicted target variable through visualization.
 
 <br>
 <h3> Plot(s) Used: </h3> 
